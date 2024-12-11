@@ -29,7 +29,11 @@ Run the analysis:
 ```
 bash runall.sh
 ```
-
+or
+```
+make clean-all
+make all
+```
 ### Exercise:
 
 Your task is to add a "smarter" data analysis pipeline using GNU Make!
